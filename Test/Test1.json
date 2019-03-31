@@ -1,0 +1,26 @@
+{
+    "shoppingCartId": "cartTest1",
+    "shoppingItems": [
+        {
+            "isImported": false,
+            "itemKind": "books",
+            "name": "book",
+            "noTaxCost": 12.49,
+            "number": 1
+        },
+        {
+            "isImported": false,
+            "itemKind": "Various",
+            "name": "music CD",
+            "noTaxCost": 14.99,
+            "number": 1
+        },
+        {
+            "isImported": false,
+            "itemKind": "Medical",
+            "name": "chocolate bar",
+            "noTaxCost": 0.85,
+            "number": 1
+        }
+    ]
+}

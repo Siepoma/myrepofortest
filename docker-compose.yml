@@ -1,0 +1,31 @@
+version: '2.2'
+services:
+  
+  salestax:
+    container_name: salestax
+    build: salestax
+    ports:
+      - "12345:8080"
+    networks:
+      - mynet
+    depends_on:
+        mongo:
+            condition: service_healthy
+  mongo:
+    container_name: mongo
+    build: mongo
+    ports:
+      - 3306:3306
+      - 27017:27017
+      - 8081:8081
+    networks:
+      - mynet
+    healthcheck:
+      test: bash /docker-health
+      interval: 5s
+      timeout: 10s
+      retries: 100
+ 
+networks:
+  mynet:
+

@@ -1,0 +1,10 @@
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/db/QryHandler.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/objects/Item.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/main/Main.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/utils/TaxesHandler.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/rest/ShoppingCartResource.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/objects/ShoppingCart.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/db/DBConnector.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/rest/Result.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/utils/ShoppingBasketHandler.java
+/media/sf_SharedVM/wip/salestaxes/src/main/java/com/sipoma/personalporj/salestaxes/objects/Receipts.java

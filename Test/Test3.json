@@ -1,0 +1,33 @@
+{
+    "shoppingCartId": "cartTest3",
+    "shoppingItems": [
+        {
+            "isImported": true,
+            "itemKind": "Various",
+            "name": "bottle of Perfume",
+            "noTaxCost": 27.99,
+            "number": 1
+        },
+        {
+            "isImported": false,
+            "itemKind": "Various",
+            "name": "bottle of Perfume",
+            "noTaxCost": 18.99,
+            "number": 1
+        },
+        {
+            "isImported": false,
+            "itemKind": "Medical",
+            "name": "packet of headache pills",
+            "noTaxCost": 9.75,
+            "number": 1
+        },
+        {
+            "isImported": true,
+            "itemKind": "Food",
+            "name": "chocolates",
+            "noTaxCost": 11.25,
+            "number": 1
+        }
+    ]
+}

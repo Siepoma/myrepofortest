@@ -1,0 +1,19 @@
+{
+    "shoppingCartId": "cartTest2",
+    "shoppingItems": [
+        {
+            "isImported": true,
+            "itemKind": "food",
+            "name": "imported box of chocolates",
+            "noTaxCost": 10.00,
+            "number": 1
+        },
+        {
+            "isImported": true,
+            "itemKind": "Various",
+            "name": "imported bottle of perfume",
+            "noTaxCost": 47.50,
+            "number": 1
+        }
+    ]
+}
